@@ -1,2 +1,3 @@
 # front-end-gurus
-educational projects
+educational projects xsjhyt
+srty
